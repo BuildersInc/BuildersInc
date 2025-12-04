@@ -3,6 +3,9 @@ Hi, my name is Felix and I ma CS Student from Germany 🇩🇪
 
 I try many fields of CS but I like technical stuff the most ⚡
 
+Im a Developer on the [Ostfalia Cup](https://cup.ostfalia.de/). 
+We are a Student Team in the field of Autonomous Driving. 
+We build self driving Cars in a scale of 1:10 including hardware and software.  
 
 I did most of my jobs doing Pyhton development 🐍
 
